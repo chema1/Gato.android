@@ -1,0 +1,15 @@
+C:\Users\Chema\Documents\Projects\pruebas\pruebas\bin\Debug\pruebas.dll
+C:\Users\Chema\Documents\Projects\pruebas\pruebas\bin\Debug\pruebas.pdb
+C:\Users\Chema\Documents\Projects\pruebas\pruebas\bin\Debug\pruebas.dll.mdb
+C:\Users\Chema\Documents\Projects\pruebas\pruebas\bin\Debug\pruebas.pruebas.apk
+C:\Users\Chema\Documents\Projects\pruebas\pruebas\bin\Debug\pruebas.pruebas-Signed.apk
+C:\Users\Chema\Documents\Projects\pruebas\pruebas\obj\Debug\pruebas.dll
+C:\Users\Chema\Documents\Projects\pruebas\pruebas\obj\Debug\pruebas.pdb
+C:\Users\Chema\Documents\Projects\pruebas\pruebas\obj\Debug\android\bin\pruebas.pruebas.apk
+C:\Users\Chema\Documents\Projects\pruebas\pruebas\obj\Debug\res\layout\main.xml
+C:\Users\Chema\Documents\Projects\pruebas\pruebas\obj\Debug\res\values\strings.xml
+C:\Users\Chema\Documents\Projects\pruebas\pruebas\obj\Debug\res\drawable\icon.png
+C:\Users\Chema\Documents\Projects\pruebas\pruebas\obj\Debug\R.cs.flag
+C:\Users\Chema\Documents\Projects\pruebas\pruebas\obj\Debug\uploadflags.txt
+C:\Users\Chema\Documents\Projects\pruebas\pruebas\obj\Debug\res\drawable\circle.png
+C:\Users\Chema\Documents\Projects\pruebas\pruebas\obj\Debug\res\drawable\ex.png
